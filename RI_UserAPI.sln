@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RI_UserAPI", "WebApplication6\RI_UserAPI.csproj", "{17E02684-C63C-4E78-9A22-BC9B808CA255}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RI_UserAPI", "RI_UserAPI\RI_UserAPI.csproj", "{17E02684-C63C-4E78-9A22-BC9B808CA255}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
